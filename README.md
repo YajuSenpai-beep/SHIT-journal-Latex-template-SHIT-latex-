@@ -3,7 +3,7 @@
     English |
     <a href="./README.zh-CN.md">简体中文</a>
   </p>
-  <img src="./figs/S.H.I.T.png" alt="SHIT Journal Template" width="240">
+  <img src="./fig/S.H.I.T.png" alt="SHIT Journal Template" width="240">
   <h1>SHIT Journal LaTeX Template</h1>
   <p><strong>S.H.I.T. = Sciences · Humanities · Information · Technology</strong></p>
   <p>
@@ -72,9 +72,8 @@ It is designed to provide a compact, journal-like manuscript workflow with bilin
 
 ```text
 SHIT/
-├─ fig/                # manuscript figure assets
-├─ figs/               # README assets
-│  └─ S.H.I.T.png
+├─ fig/                # manuscript and README image assets
+│  ├─ S.H.I.T.png
 ├─ references.bib
 ├─ shit_journal_template.tex
 ├─ README.md

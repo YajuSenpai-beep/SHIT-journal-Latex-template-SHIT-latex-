@@ -3,7 +3,7 @@
     <a href="./README.md">English</a> |
     简体中文
   </p>
-  <img src="./figs/S.H.I.T.png" alt="SHIT Journal Template" width="240">
+  <img src="./fig/S.H.I.T.png" alt="SHIT Journal Template" width="240">
   <h1>SHIT 构石期刊 LaTeX 模板</h1>
   <p><strong>S.H.I.T. = Sciences · Humanities · Information · Technology</strong></p>
   <p>
@@ -72,9 +72,8 @@
 
 ```text
 SHIT/
-├─ fig/                # 正文图片资源
-├─ figs/               # README 展示图片
-│  └─ S.H.I.T.png
+├─ fig/                # 正文与 README 共用图片资源
+│  ├─ S.H.I.T.png
 ├─ references.bib
 ├─ shit_journal_template.tex
 ├─ README.md
