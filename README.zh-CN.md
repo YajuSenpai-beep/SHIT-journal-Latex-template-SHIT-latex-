@@ -124,7 +124,6 @@ xelatex shit_journal_template.tex
 ---
 
 <div align="center">
-  <sub><i>"Truth Fades, S.H.I.T Lasts."</i></sub>
-  <br>
-  <sub><i>"真理会过时，构石永恒。"</i></sub>
+  <h3><i>"Truth Fades, S.H.I.T Lasts."</i></h3>
+  <h3><i>"真理会过时，构石永恒。"</i></h3>
 </div>
